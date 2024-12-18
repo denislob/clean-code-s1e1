@@ -44,8 +44,9 @@
 .title {
   list-style: none;
 }
-input,
-.button{
+.text-input,
+.checkbox-input
+.button {
   outline: none;
 }
 .button {
